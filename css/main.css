@@ -46,9 +46,9 @@ header nav a:hover{
 /* filme principal*/
 .filme-principal{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,50), rgba(0,0,0,.50)10%), url('../img/thewitcher.jpg');
+    background: linear-gradient(rgba(0,0,0,50), rgba(0,0,0,.50)10%), url('../img/thewitche2.jpg');
 
-    height: 400px;
+    height: 480px;
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -93,5 +93,5 @@ header nav a:hover{
 }
 
 .filme-principal .container{
-    width: 72%;
+    width: 65%;
 }
