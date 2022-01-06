@@ -8,7 +8,17 @@
         margin-top: 8px;
         width: 210px;
     }
+
+    header nav {
+        position: absolute;
+        margin-left: 180px;
+       
+       
+        
+    }
+
 }
+
 
 @media screen and (min-width: 1000px){
     .descricao{
